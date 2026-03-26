@@ -2,7 +2,7 @@
 
 > A next-generation decentralized exchange protocol powered by advanced routing algorithms.
 
-CA pump.fun : xxxxxxxxxxpump
+CA pump.fun : 7EVtATBKzwGDstrCngBcpYNBgeGT5pieNEty8ZVNpump
 ---
 
 ## 🚀 Overview
