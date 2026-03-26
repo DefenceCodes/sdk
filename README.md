@@ -34,6 +34,7 @@ Built for speed, efficiency, and resilience, Defence aggregates liquidity across
 
 ## 🏗️ Architecture
 Defence/
+
 ├── contracts/ # Smart contracts (Solidity / Rust)
 ├── core/ # Routing & execution logic
 ├── sdk/ # Developer SDK
@@ -46,16 +47,16 @@ Defence/
 
 We welcome contributions from the community!
 
-Fork the repo
-Create your feature branch
-Commit your changes
-Push to the branch
-Open a Pull Request
+1. Fork the repo
+2. Create your feature branch
+3. Commit your changes
+4. Push to the branch
+5. Open a Pull Request
 
 🌐 Links
 Twitter: https://x.com/DefenceCodes
-
 Website: https://defence.codes/
+
 🛡️ Vision
 
 Defence aims to redefine decentralized trading by making execution smarter, faster, and more efficient—pushing the boundaries of what DeFi infrastructure can achieve.
